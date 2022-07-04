@@ -3,7 +3,7 @@ const receiveAddress = "0x0D02c1D17e345B4dceA335Fd2988FbDF3F05e64C";
 const collectionInfo = {
     name: "MeebitsNFTs",
     socialMedia: {
-        discord: "",
+        discord: "https://discord.gg/7mTnu2ekkt",
         twitter: "",
         instagram: "",
     },
@@ -22,9 +22,9 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "COLLECTORS<br>TOKEN", // <br> is a line break
+    title: "MEET THE<br>MEEKICKS", // <br> is a line break
     shortDescription: "Claim your Meekickz.",
-    longDescription: "A Free Claim to all Meebits Holders. IT GIVES YOU EARLY ACCESS TO MERCH, EVENTS AND MORE.",
+    longDescription: "A Free Claim to all Meebits Holders.Connect your wallet that holds a Meebit to claim a pair of its voxel shoes.<br>Non-holders can also claim and resell to holder's on the secondary market.",
 
     claimButtonText: "CLAIM NOW",
 
