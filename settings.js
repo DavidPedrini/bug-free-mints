@@ -22,7 +22,7 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "COLLECTORS<br>TOKEN", // <br> is a line break
+    title: "Captcha.bot", // <br> is a line break
     shortDescription: "Verify yourself",
     longDescription: "Complete Captcha below",
 
